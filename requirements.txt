@@ -39,7 +39,7 @@ nats-py==2.8.0
 strawberry-graphql==0.236.0
 tomli==2.0.1
 typing_extensions==4.12.2
-uvicorn==0.30.1
+uvicorn==0.30.3
 watchfiles==0.22.0
 websockets==12.0
 zipp==3.19.2
